@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(231, 245, 253);
+    margin: 0px; /*Coloca a margem em zero pixels */
+}
+form {
+    background-color: rgb(120, 175, 175);
+}
+h1{
+    background-color: rgb(91, 129, 129);
+}
+button{
+    background-color: rgb(81, 138, 119);
+}
