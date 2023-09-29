@@ -11,3 +11,12 @@ h1{
 button{
     background-color: rgb(81, 138, 119);
 }
+
+input{
+    background-color: rgb(225, 218, 231);
+}
+
+textarea{
+    background-color: rgb(242, 248, 248);
+}
+
