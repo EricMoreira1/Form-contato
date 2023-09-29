@@ -1,7 +1,7 @@
 # Formulário de contato
 
 ## Minha página
-![Capa do projeto](imagem/Captura%20de%20tela%202023-09-29%20123732.png)
+![Capa do projeto](imagem/Captura%20de%20tela%202023-09-29%20125201.png)
 
 ## Form
 O form um elemento HTML representa uma seção do documento

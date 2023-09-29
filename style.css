@@ -1,22 +1,44 @@
 body{
-    background-color: rgb(231, 245, 253);
+    background-color: rgb(255, 250, 187);
     margin: 0px; /*Coloca a margem em zero pixels */
 }
-form {
-    background-color: rgb(120, 175, 175);
-}
 h1{
-    background-color: rgb(91, 129, 129);
-}
-button{
-    background-color: rgb(81, 138, 119);
+    background-color: rgb(222, 241, 154);
 }
 
-input{
-    background-color: rgb(225, 218, 231);
-}
 
-textarea{
-    background-color: rgb(242, 248, 248);
-}
 
+#title{
+
+    background-color: rgb(237, 248, 185);  
+    margin: 0px;
+    font-size: 30px;
+
+    }
+    
+form{
+      padding-top: 200px;
+      width: 50%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    
+    button{
+    
+      background-color: rgb(98, 82, 136);
+    
+    }
+    
+    html{
+    
+      background-color:rgb(192, 112, 47);
+    
+    }
+    
+    p{
+    
+      background-color: rgb(255, 214, 102);
+    
+      margin: 1px;
+    
+    }
